@@ -73,7 +73,7 @@ music-store/
 ## 📸 Screenshots
 *(Add your own screenshots here)*  
 Example:  
-![Music Store Screenshot](public/screenshot.png)
+![Music Store Screenshot](file:///Users/lakshay/Desktop/Screenshot%202025-08-07%20at%2012.41.08%E2%80%AFAM.png)
 
 ---
 
