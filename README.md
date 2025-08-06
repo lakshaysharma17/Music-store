@@ -28,6 +28,7 @@ Users can search for their favorite artists, browse songs, and play previews dir
 ---
 
 ## 📂 Project Structure
+```
 music-store/
 │── public/
 │   ├── index.html
@@ -43,6 +44,7 @@ music-store/
 │   ├── index.js
 │── package.json
 │── README.md
+```
 
 ---
 
@@ -50,35 +52,42 @@ music-store/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/lakshaysharma17/music-store.git
-
----
-
+   git clone https://github.com/yourusername/music-store.git
+   ```
 2. **Install dependencies**
    ```bash
    cd music-store
    npm install
-
----
-
+   ```
 3. **Start the development server**
    ```bash
    npm start
-   
----
-
+   ```
 4. **Open in browser**
-   ```bash
+   ```
    http://localhost:3000
-   
+   ```
+
 ---
 
 ## 📸 Screenshots
+*(Add your own screenshots here)*  
+Example:  
+![Music Store Screenshot](public/screenshot.png)
 
+---
 
+## 🤝 Contributing
+Pull requests are welcome!  
+If you find a bug or want to improve the UI, open an **issue** or submit a **PR**.
 
+---
 
+## 📜 License
+This project is licensed under the **MIT License** – you can use and modify it freely.
 
+---
 
-
-
+### 👨‍💻 Author
+**Lakshay Sharma**  
+🔗 [GitHub Profile](https://github.com/yourusername)  
