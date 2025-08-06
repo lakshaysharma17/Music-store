@@ -70,24 +70,6 @@ music-store/
 
 ---
 
-## 📸 Screenshots
-*(Add your own screenshots here)*  
-Example:  
-![Music Store Screenshot](file:///Users/lakshay/Desktop/Screenshot%202025-08-07%20at%2012.41.08%E2%80%AFAM.png)
-
----
-
-## 🤝 Contributing
-Pull requests are welcome!  
-If you find a bug or want to improve the UI, open an **issue** or submit a **PR**.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** – you can use and modify it freely.
-
----
-
 ### 👨‍💻 Author
 **Lakshay Sharma**  
-🔗 [GitHub Profile](https://github.com/yourusername)  
+🔗 [GitHub Profile](https://github.com/lakshaysharma17)  
